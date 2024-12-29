@@ -1,6 +1,9 @@
+GitHub Repository URL:
+
+https://github.com/Confused-coder1919/EcommerceApp-Project
 
 ## Group Members
-- **Student 1**: Syed Mohammad Shah Mostafa
+- **Student 1**: Syed Mohammad Shah Mostafa (https://github.com/Confused-coder1919)
 - **Student 2**: Siddartha Nanuvala
 - **Student 3**: Shreeram Balaram
 
